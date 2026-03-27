@@ -4,10 +4,11 @@ Hands-on experience modernizing hybrid environments toward cloud-first architect
 
 ## Projects
 
+- [Data Platform Modernization (In Progress)](./projects/data-platform-modernization.md)
 - [Hybrid Identity → Entra SSO Rollout](./projects/sso-entra-rollout.md)
 - [Network Infrastructure Redesign](./projects/network-redesign.md)
-- [Endpoint Imaging Standardization](./projects/endpoint-imaging.md)
 - [VPN Replacement with Entra Global Secure Access](./projects/gsa-replaces-vpn.md)
+- [Endpoint Imaging Standardization](./projects/endpoint-imaging.md)
 
 ## Focus Areas
 - Identity (Entra ID, SSO, Conditional Access)
