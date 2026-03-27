@@ -6,6 +6,7 @@ Hands-on experience modernizing hybrid environments toward cloud-first architect
 
 - [Endpoint Imaging Standardization](./projects/endpoint-imaging.md)
 - [Hybrid Identity → Entra SSO Rollout](./projects/sso-entra-rollout.md)
+- [Endpoint Imaging Standardization](./projects/endpoint-imaging.md)
   
 ## Focus Areas
 - Identity (Entra ID, SSO)
