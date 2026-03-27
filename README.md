@@ -8,6 +8,7 @@ Hands-on experience modernizing hybrid environments toward cloud-first architect
 - [Hybrid Identity → Entra SSO Rollout](./projects/sso-entra-rollout.md)
 - [Network Infrastructure Redesign](./projects/network-redesign.md)
 - [VPN Replacement with Entra Global Secure Access](./projects/gsa-replaces-vpn.md)
+- [Endpoint Provisioning Modernization (SmartDeploy → Autopilot)](./projects/autopilot-modernization.md)
 - [Endpoint Imaging Standardization](./projects/endpoint-imaging.md)
 
 ## Focus Areas
